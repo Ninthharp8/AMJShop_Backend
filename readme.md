@@ -16,11 +16,8 @@ Se lanza en [localhost:3636](http://localhost:3636)
 
 las apis son: 
      `/api/users`
-     
      `/api/products`
-     
      `/api/auth`
-     
      `/api/orders`
 
 Pueden clickar rapidamente  : 
