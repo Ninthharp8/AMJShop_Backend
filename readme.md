@@ -22,7 +22,7 @@ las apis son:
 
 Pueden clickar rapidamente  : 
 
-    * [localhost:3636/api/users](http://localhost:3636/api/users)
-    * [http://localhost:3636/api/products](http://localhost:3636/api/products)
-    * [http://localhost:3636/api/auth](http://localhost:3636/api/auth)
-    * [http://localhost:3636/api/orders](http://localhost:3636/api/orders)
+    [localhost:3636/api/users](http://localhost:3636/api/users)
+    [localhost:3636/api/products](http://localhost:3636/api/products)
+    [localhost:3636/api/auth](http://localhost:3636/api/auth)
+    [localhost:3636/api/orders](http://localhost:3636/api/orders)
